@@ -2,7 +2,7 @@
 
 This notebook explores the historical significance of **Ada Lovelace's "Note G"**, written in 1843 for Charles Babbage’s mechanical Analytical Engine and widely recognized as the world's first published computer program.
 
-Rather than relying on modern recursive functions, this project translates her historical operational table into a **modern executable table** using Python. It emulates the machine's 25 physical register columns step-by-step to show how the logic actually executed under the hood.
+Rather than relying on modern recursive functions, this project translates her historical operational table into a modern executable table using Python. It emulates the machine's 25 physical register columns step-by-step to show how the logic actually executed under the hood.
 
 ## Overview
 * **Target:** Computing Bernoulli numbers (specifically targeting $B_8$) using Lovelace's original sequence of operations.
