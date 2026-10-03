@@ -12,7 +12,3 @@ Rather than relying on modern recursive functions, this project translates her h
 ## Project Structure
 * `bernoulli-noteG.ipynb`: The core Jupyter Notebook containing the interactive register emulation and background notes.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
